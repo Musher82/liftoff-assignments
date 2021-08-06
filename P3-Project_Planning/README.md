@@ -25,3 +25,5 @@ https://trello.com/b/QY3nrLFD/liftoff
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+https://github.com/LaunchCodeLiftoffProjects/britaney-group-b
