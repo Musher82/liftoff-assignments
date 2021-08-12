@@ -10,11 +10,13 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-![Landing Page](https://user-images.githubusercontent.com/78510458/128439236-3a011d25-c89f-462f-a96f-984a6bf48b20.png)
-![Login Landing Page](https://user-images.githubusercontent.com/78510458/128439252-041835e6-d82d-4c53-9967-6fe334812425.png)
-![Add Item Page](https://user-images.githubusercontent.com/78510458/128439255-cae9d44f-cfaa-4d61-b078-8fd138528c98.png)
-![Item Detail Page](https://user-images.githubusercontent.com/78510458/128439263-53c5d187-b0be-4b4f-879a-9814e4b7d7db.png)
-![My Closet page](https://user-images.githubusercontent.com/78510458/128439268-09bc3412-c66d-48ec-bfcd-7907225f9af1.png)
+![Index Page](https://user-images.githubusercontent.com/78510458/129279135-65a62c16-be4a-4673-aeff-bf91b556fbf8.png)
+![Login Landing Page](https://user-images.githubusercontent.com/78510458/129279136-9a414619-da9a-470b-ba7f-ab7df433faeb.png)
+![Add Item page](https://user-images.githubusercontent.com/78510458/129279137-69614ce3-e025-457a-b98a-4fed0ff9023b.png)
+![Item Detail Page](https://user-images.githubusercontent.com/78510458/129279138-79ae216b-578b-41a5-b5d0-1bc029a9e01a.png)
+![Item Overview Page](https://user-images.githubusercontent.com/78510458/129279139-695e2169-d2af-4681-9e51-8357cebed12d.png)
+![Create Account Page](https://user-images.githubusercontent.com/78510458/129279145-bb447ce4-c7e4-4d9b-b8a7-79e76f089e60.png)
+
 
 ### Project Tracker
 
